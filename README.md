@@ -1,2 +1,2 @@
 # hello-world
-Michael's first repository on GitHub. Woot!
+Michael's first repository on GitHub. Woot! Woot!
